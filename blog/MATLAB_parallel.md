@@ -24,7 +24,8 @@ Another parallel tool provided by MATLAB is `parfor` , which allows you to imple
 ![`parfor`](https://raw.githubusercontent.com/WQ-Peng/repo_image/master/MATLAB_parallel/3.png)
 
 By exchange `for` loop into `parfor` loop, one can devide the computation task into several MATLAB works which run simultaneously.
-Thanks to the multi-cores CPU on the workstation, the computation task was done with in 5 days.
+Thanks to the multi-cores CPU on the workstation, the computation task was done within 5 days.
 
 ![](https://raw.githubusercontent.com/WQ-Peng/repo_image/master/MATLAB_parallel/4.png)
+
 ![](https://raw.githubusercontent.com/WQ-Peng/repo_image/master/MATLAB_parallel/5.png)
