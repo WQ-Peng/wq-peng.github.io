@@ -46,5 +46,3 @@ connect to Raspberry Pi with SSH
 `Hello, Raspberry Pi`
 
 ![hello](https://raw.githubusercontent.com/wq-peng/repo_image/master/raspberrypi/hello.png)
-
-![pi](https://raw.githubusercontent.com/wq-peng/repo_image/master/raspberrypi/1.jpg)
