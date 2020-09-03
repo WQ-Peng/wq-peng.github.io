@@ -1,4 +1,4 @@
-# My raspberry Pi
+# My Raspberry Pi
 
 > A short record of my first Raspverry Pi
 
