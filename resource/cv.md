@@ -6,7 +6,7 @@
 **East China University of Science and Technology**  
 *Bachelor of Engineering, Information Engineering, Aug 2017 - Jul 2021*  
 - Avg Score: 85.16 / 100
-- C/C++ Programming Design, Python Programming Design, Data Structure and Algorithm, Computer Networks, Operating System, Computer Architecture and Design
+- Curricula: C/C++ Programming Design, Python Programming Design, Data Structure and Algorithm, Computer Networks, Operating System, Computer Architecture and Design
 
 ---
 ## **PROJECTS**
