@@ -32,7 +32,7 @@
 - Improved total accuracy by 5% compared to traditional methods and created a live GUI to demonstrate the results
 
 ## **SOCIAL ACTIVITIES**
-### **Membership of the Innovation Club in College**,
+### **Membership of the Innovation Club in College**
 *Sept 2018 - Jan 2019*
 - Participated in the weekly training of the club to learn about programming and electronic engineering
 - Involved in four engineering competitions about microcomputers to implemented simple robots with Arduino
