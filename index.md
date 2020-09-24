@@ -1,6 +1,6 @@
 # Wenqing Peng
 
-### [*Curriculum Vitae*](https://wq-peng.github.io/resource/cv)
+### [*Curriculum Vitae*](https://wq-peng.github.io/res/cv)
 
 ---
 
