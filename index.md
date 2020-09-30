@@ -1,7 +1,5 @@
 # Wenqing Peng
 
-### [*Curriculum Vitae*](https://wq-peng.github.io/res/cv)
-
 ## Projects Repositories
 - [`WeChat mini APP for campus running`](https://github.com/WQ-Peng/WX_running)
 
