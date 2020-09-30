@@ -5,15 +5,16 @@
 ### **East China University of Science and Technology**  
 *Bachelor of Engineering, Information Engineering, Aug 2017 - Jul 2021*  
 - Avg Score: 85.16 / 100
-- Curricula: C/C++ Programming Design, Python Programming Design, Data Structure and Algorithm, Computer Networks, Operating System, Computer Architecture and Design
+- Curricula: Data Structure and Algorithm (91/100), Computer Networks (92/100), Principle of Operating Systems
+(93/100), Computer Architecture and Design (89/100)
 
 ## **PROJECTS**
 ### **A Machine Learning Based Acoustic Classification System**  
 *Team Leader, College Student Innovation Competition, Mar 2019 - Present*
 - Created an acoustic scene classification system through deep learning and similarity-based classification methods
-- Extracted more than 5,000 features through OpenSMILE for each acoustic data sample
+- Extracted more than 400 features through *`essentia`* for each acoustic data sample
 - Combined intermediate features of a CNN classifier and a decision tree classifier to improve the accuracy by 10%
-- Used a CPU parallel computing tool ‘parfor’ in MATLAB and OpenCL to reduced training time by 81%
+- Used a CPU parallel computing tool *`parfor`* in MATLAB and `OpenCL` to reduced training time by 81%
 
 ### **A Morning Run Management Application for College Student**   
 *Tech Leader, Computer Application Competition, Oct 2018 - May 2019*
@@ -25,7 +26,7 @@
 ## **RESEARCH EXPERIENCE**
 ### **A Gaussian Mixture Models (GMMs) Based Speaker Recognition Method**  
 *Research Assistant, East China University of Science and Technology, Jul 2019 - Aug 2019*  
-- Labeled a phone conversation dataset through Praat framework and extracted features from acoustic data samples
+- Labeled a phone conversation dataset through *`Praat`* and extracted features from acoustic data samples
 - Implemented voice activity detection on the dataset to extract active part of the conversation
 - Build a voice-based gender recognition system to predict gender information of the speaker through GMMs
 - Used K-Fold algorithms on different develop sets to choose best hyperparameters for GMMs
@@ -44,6 +45,6 @@
 - Awards of Excellent Social Activity from East China University of Science and Technology (2020)
 
 ## **SKILLS & INTERESTS**
-- Programming Skills: Python, MATLAB, Java, JavaScript, HTML, CSS, SQL, PyTorch  
+- Programming Skills: Python, MATLAB, Java, JavaScript, HTML, CSS, SQL, Android  
 - Interests: Dragon Boat (4th prize of Shanghai Amateur League in 2019), coding, hackathon  
 - Languages: Mandarin (native), English (fluent, TOEFL 106)  
