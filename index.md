@@ -5,7 +5,7 @@
 
 - [`Speaker Recognition`](https://github.com/WQ-Peng/Speaker_Recognition)
 
-- [`Acoustic sense classification`](https://github.com/WQ-Peng/ASC_Fusion)
+- [`Acoustic Scene Classification`](https://github.com/WQ-Peng/ASC_Fusion)
 
 ## Blogs
 
