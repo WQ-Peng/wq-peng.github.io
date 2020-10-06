@@ -1,11 +1,12 @@
 # Wenqing Peng
 
 ## Projects Repositories
+
+- [`Acoustic Scene Classification`](https://github.com/WQ-Peng/ASC_Fusion)
+
 - [`WeChat mini APP for campus running`](https://github.com/WQ-Peng/WX_running)
 
 - [`Speaker Recognition`](https://github.com/WQ-Peng/Speaker_Recognition)
-
-- [`Acoustic Scene Classification`](https://github.com/WQ-Peng/ASC_Fusion)
 
 ## Blogs
 
